@@ -1,7 +1,7 @@
 # Le fantasme du joueur – Cyberpunk 2077
 
 ## Qui est le joueur dans Cyberpunk 2077 ?
-Dans ![LOGO Cyberpunk2077](https://i.pinimg.com/originals/d0/7f/3c/d07f3cc35eb5614262fdf7af09c38b69.gif)**, le joueur incarne **V**, un personnage personnalisable qui évolue dans un univers futuriste dystopique.  
+Dans ***Cyberpunk 2077***, le joueur incarne **V**, un personnage personnalisable qui évolue dans un univers futuriste dystopique.  
 Le joueur devient **un individu capable de s’affirmer, d’explorer librement et d’influencer son environnement**.  
 Il n’est pas simplement un observateur : ses actions, ses choix et sa façon de naviguer dans le monde façonnent directement l’histoire et les interactions avec les autres personnages.
 
