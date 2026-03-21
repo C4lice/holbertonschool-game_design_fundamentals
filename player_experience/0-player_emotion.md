@@ -47,22 +47,22 @@ Il construit sa propre manière de jouer et avance selon ses choix.
 
 ## Ce que le joueur ressent en jouant
 
-### <p style="color:green;">Début de partie</p>
+### 🟩Début de partie🟩
 - Curiosité  
 - Excitation  
 - Impression de liberté  
 
-### <p style="color:orange;">Progression</p>
+### 🟨Progression🟨
 - Engagement émotionnel  
 - Tension liée aux décisions  
 - Attachement à son parcours  
 
-### <p style="color:red;">Moments intenses</p>
+### 🟥Moments intenses🟥
 - Stress  
 - Pression  
 - Doute face aux choix  
 
-### <p style="color:blue;">Moments calmes</p>
+### 🟦Moments calmes🟦
 - Réflexion  
 - Observation  
 - Immersion  
@@ -108,7 +108,7 @@ Cela crée une expérience où le joueur ne fait pas que jouer, mais **vit une t
 
 ---
 
-## Résumé global
+## 🟪Résumé global🟪
 
 - Le joueur agit librement dans un environnement complexe  
 - Il ressent une alternance entre exploration, tension et réflexion  
