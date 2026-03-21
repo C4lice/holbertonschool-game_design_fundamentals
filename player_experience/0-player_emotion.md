@@ -1,7 +1,7 @@
 # Analyse des émotions du joueur – Cyberpunk 2077
 
 ## Jeu choisi
-**:contentReference[oaicite:0]{index=0}**
+** ![LOGO Cyberpunk2077](https://i.pinimg.com/originals/d0/7f/3c/d07f3cc35eb5614262fdf7af09c38b69.gif)**
 
 ---
 
